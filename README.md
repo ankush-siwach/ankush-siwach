@@ -128,7 +128,7 @@
 <li>
 
 <a href="mailto:ankushsiwach86@gmail.com" target="_blank">
-<img src="gmailbanner.jpg" t=mail width ="200" height ="50" style="margin-bottom: 5px;"/>
+<img src="gmailbanner.jpg" alt=mail width ="200" height ="50" style="margin-bottom: 5px;"/>
 </a>
 </li>
 	

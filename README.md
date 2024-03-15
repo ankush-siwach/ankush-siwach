@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Ankush siwach </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
-  <a href="https://github.com/ankush-siwach/CODSOFT.git"><img src="    "https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"> </a>
+  <a href="https://github.com/ankush-siwach/CODSOFT.git"><img src="     https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=welcome+to+my+GitHub+profile;Computer+Science+Student%2C;Self+-taught+Front-End++Developer;Active+Learner%2FResearcher%2C;Love+to+learn+new+stuffs...." alt="Typing SVG" /></a></a>
 </p>
 
 
@@ -118,7 +118,7 @@
 
 <li>
 
-<a href="https://twitter.com/ankush_siwach1" target="_blank">
+<a href="https://github.com/Downloads/twitter.com/ankush_siwach1" target="_blank">
 <img src="twitter.jpg" alt=twitter width ="200" height ="50"  style="margin-bottom: 5px;"/>
 </a>
 </li>

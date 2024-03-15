@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Ankush siwach </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
-  <a href="https://github.com/ankush-siwach/CODSOFT.git"><img src="     https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=welcome+to+my+GitHub+profile;Computer+Science+Student%2C;Self+-taught+Front-End++Developer;Active+Learner%2FResearcher%2C;Love+to+learn+new+stuffs...." alt="Typing SVG" /></a></a>
+  <a href="https://github.com/ankush-siwach/CODSOFT.git"><img src="     https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=welcome+to+my+GitHub+profile;Computer+Science+Student%2C;Self+-taught+Front-End++Developer;Active+Learner%2FResearcher%2C;Love+to+learn+new+stuffs...." alt="Typing SVG" /></a></a>
 </p>
 
 
@@ -11,7 +11,7 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://media.licdn.com/dms/image/D5603AQHNu3Ct5clpVA/profile-displayphoto-shrink_800_800/0/1704815813759?e=2147483647&v=beta&t=ru8gCs2t8b0QqIpe5E4Qq6QnIEzpq-MagkA3-xhHVR8" width = 250px></picture>
 

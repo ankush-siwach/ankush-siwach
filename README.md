@@ -11,7 +11,7 @@
 
 
 	
-## <picture><img src = "about_me.gif" alt=# width = 50px></picture> **About me**
+## <picture><img src = "about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://media.licdn.com/dms/image/D5603AQHNu3Ct5clpVA/profile-displayphoto-shrink_800_800/0/1704815813759?e=2147483647&v=beta&t=ru8gCs2t8b0QqIpe5E4Qq6QnIEzpq-MagkA3-xhHVR8" width = 250px></picture>
 
